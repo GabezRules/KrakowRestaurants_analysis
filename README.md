@@ -7,7 +7,7 @@ Repo will include:
   * analysis of the files where I will try to answer the questions asked before
   * a ML model to predict the rating of the restaurant based on location and options like cuisine type or prices
   
-Technologies used so far: Python 3, Selenium, BeautufilSoup, Matplotlib, Seaborn
+Technologies used so far: Python 3, Selenium, BeautufilSoup, Matplotlib, Seaborn, Pandas, Numpy
 
 # How to use scrapper:
 
